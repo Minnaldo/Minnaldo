@@ -18,7 +18,7 @@
 
 ### Skill
 
-- Language: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=Javascript&logoColor=%23F7DF1E) ![Python3](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
+- Language: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=Javascript&logoColor=%23F7DF1E)
 - Backend: ![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white) ![Web Security](https://img.shields.io/badge/-Web%20Security-black) [![RESTFUL API](https://img.shields.io/badge/-RESOURCEful%20API-blueviolet)](https://medium.com/@trevorhreed/you-re-api-isn-t-restful-and-that-s-good-b2662079cf0e)
 - DevOps: ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white) ![Github Actions](https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?&style=flat&logo=github%20actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins%20-%232C5263.svg?&style=flat&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker%20-%235835CC.svg?&style=flat&logo=Docker&logoColor=white)
 
@@ -44,15 +44,18 @@
 <details>
   <summary><strong>2021</strong></summary>
   
-- 일상 속 사물이 알려주는 웹 API 디자인  
-- 딥 워크
+- 일상 속 사물이 알려주는 웹 API 디자인
 - 관계형 데이터베이스 실전 입문
-- 백엔드 스터디(발표형)
+</details>
+
+<details>
+  <summary><strong>2022</strong></summary>
+  
+- React.js, 스프링 부트, AWS로 배우는 웹 개발 101
 </details>
 
 ### Doing
 
-- 인프런-스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
 - Samsung Software Membership 이수
 - Samsung Software Academy For Youth 2기
 
