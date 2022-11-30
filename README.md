@@ -52,6 +52,7 @@
   <summary><strong>2022</strong></summary>
   
 - React.js, 스프링 부트, AWS로 배우는 웹 개발 101
+- 10개 프로젝트로 완성하는 백엔드 웹개발(Java/Spring) 초격차 패키지 Online.
 </details>
 
 ### Doing
