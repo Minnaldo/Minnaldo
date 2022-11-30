@@ -24,7 +24,7 @@
 
 ### Tools
 
-- **VS Code(3years)**
+- **Intellij IDEA(1years)**
 - **Git(3years)**
 - GiRa(2year)
 - Slack(Less than 1year)
