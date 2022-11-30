@@ -11,7 +11,7 @@
 - 📫 How to reach me: VillainDeveloper@gmail.com
 - 🌱 I’m currently learning `Spring`, `JPA`, `Agile`, `Web API Design`, `Database`, `Vue.js`
 - 🤔 I'm interested in `OOP`, `OOP Framework(Spring, JPA)`, `DevOps`
-- 😄 Pronouns: 할아버지, aubeon bot
+- 😄 Pronouns: 
 
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksundong)](https://solved.ac/ksundong)  -->
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=ksundong&show_icons=true) -->
