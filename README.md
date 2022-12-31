@@ -1,34 +1,38 @@
 # Chomin
+
+## 🧑‍💻 About Me 🧑‍💻
+
+안녕하세요! 백엔드 주니어 개발자
+좋은 개발 문화를 배우고 전파하는 개발자가 되고싶은 조 민(VillainDev) 입니다.
+
 ### I ❤️ Code Review and 💻, 📚, ⚽️, 🎬, 📸
 
-
-좋은 개발 문화를 배우고 전파하는 개발자가 되고싶은 조 민(VillainDev) 입니다.  
 부족함을 인정하고, 확실히 알기 위해 노력합니다.
 
 속한 곳에서 항상 활동적이고, 모든 일에 열의와 자신감을 가지는 태도를 가졌습니다.
+<br>
 웹 서버 백엔드 개발자로 성장하고자 합니다.
 
-- 📝 My Resume: <>
+<!-- - 📝 My Resume: <>
 - 📫 How to reach me: VillainDeveloper@gmail.com
 - 🌱 I’m currently learning `Spring`, `JPA`, `Agile`, `Web API Design`, `Database`, `Vue.js`
 - 🤔 I'm interested in `OOP`, `OOP Framework(Spring, JPA)`, `DevOps`
-- 😄 Pronouns: 
+- 😄 Pronouns:  -->
 
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksundong)](https://solved.ac/ksundong)  -->
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=ksundong&show_icons=true) -->
 
-### Skill
+### 💻 Tech Skill 💻
 
 - Language: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=Javascript&logoColor=%23F7DF1E)
-- Backend: ![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white) ![Web Security](https://img.shields.io/badge/-Web%20Security-black) [![RESTFUL API](https://img.shields.io/badge/-RESOURCEful%20API-blueviolet)](https://medium.com/@trevorhreed/you-re-api-isn-t-restful-and-that-s-good-b2662079cf0e)
-- DevOps: ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white) 
+- Backend: ![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white) ![Web Security](https://img.shields.io/badge/-Web%20Security-black) [![RESTFUL API](https://img.shields.io/badge/-RESOURCEful%20API-blueviolet)](https://medium.com/@trevorhreed/you-re-api-isn-t-restful-and-that-s-good-b2662079cf0e)
+- DevOps: ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white) 
 
-### Tools
+### Doing
 
-- **Intellij IDEA(1years)**
-- **Git(3years)**
-- GiRa(2year)
-- Slack(Less than 1year)
+- Samsung Software Membership 이수
+- Samsung Software Academy For Youth 2기
+
 
 <details>
   <summary><strong>2020</strong></summary>
@@ -56,10 +60,6 @@
 - 10개 프로젝트로 완성하는 백엔드 웹개발(Java/Spring) 초격차 패키지 Online.
 </details>
 
-### Doing
-
-- Samsung Software Membership 이수
-- Samsung Software Academy For Youth 2기
 
 
 ### Repositories
